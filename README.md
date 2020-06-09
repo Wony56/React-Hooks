@@ -358,16 +358,8 @@
 
 ## 7. useOnline
 - 현재 기기의 브라우저 네트워크 연결 유무 상태를 보여줌.
-<div style="display: flex; justify-contents: center; width: 100%;">
-  <div style="display: flex; flex-direction: column; align-items: center; width: 50%; margin-right: 10px;">
-    <img src="README_IMAGES/online.png" />
-    <span>[온라인 상태]</span>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center; width: 50%; margin-right: 10px;">
-    <img src="README_IMAGES/offline.png" />
-    <span>[오프라인 상태]</span>
-  </div>
-</div>
+<img src="README_IMAGES/online.png" width="640px"/>
+<img src="README_IMAGES/offline.png" width="640px" />
 
 - <b>[Components/UseOnline.js]</b>
   ```javascript
