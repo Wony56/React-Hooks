@@ -4,14 +4,14 @@
 - React Hooks의 useState와 useEffect를 사용하여 개발.
 
 ## 📝목차
-1. [useDeviceOrientation](#1.-useDeviceOrientation): 기기의 기울기 값 출력
-2. [useFavicon](#2.-useFavicon): 사이트의 favicon변경
-3. [useGeolocation](##3.-useGeolocation): 현재 기기의 위치 출력
-4. [useKeyPress](#4.-useKeyPress): 키보드 입력에 따른 출력
-5. [useLocalStorage](#5.-useLocalStorage): 브라우저 Local Storage 컨트롤
-6. [useMousePosition](#6.-useMousePosition): 사이트 화면 상의 마우스 위치 출력
-7. [useOnline](#7.-useOnline): 브라우저의 네트워크 연결 유무 출력
-8. [useLockScroll](#8.-useLockScroll): 스크롤 컨트롤
+1. [useDeviceOrientation](#1.-usedeviceorientation): 기기의 기울기 값 출력
+2. [useFavicon](#2.-usefavicon): 사이트의 favicon변경
+3. [useGeolocation](#3.-usegeolocation): 현재 기기의 위치 출력
+4. [useKeyPress](#4.-usekeypress): 키보드 입력에 따른 출력
+5. [useLocalStorage](#5.-uselocalstorage): 브라우저 Local Storage 컨트롤
+6. [useMousePosition](#6.-usemouseposition): 사이트 화면 상의 마우스 위치 출력
+7. [useOnline](#7.-useonline): 브라우저의 네트워크 연결 유무 출력
+8. [useLockScroll](#8.-uselockscroll): 스크롤 컨트롤
 
 ## 1. useDeviceOrientation
 - 모바일을 통해 접속할 경우 모바일 기기의 기울기 데이터를 보여줌.
